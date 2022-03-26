@@ -6,9 +6,9 @@ export default function Footer() {
         Created with &hearts; by{' '}
         <a
           className='underline text-black dark:text-white font-semibold'
-          href='https://github.com/cristicretu'
+          href='https://github.com/anurag-bit'
         >
-          Cristian Crețu
+          Anurag Singh
         </a>
         . Deployed with{' '}
         <a
